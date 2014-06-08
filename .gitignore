@@ -1,0 +1,7 @@
+# Eclipse Metadata
+.project
+.pydevproject
+
+# File Extensions
+*.pdf
+*.zip
